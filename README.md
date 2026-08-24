@@ -1,6 +1,6 @@
 # CLOUD STORAGE CREATION (S3) AND LAUNCHING AN (EC2) INSTANCE IN AWS
-## NAME: Dharshini S N
-## REG NO: 212224230062
+## NAME: Visveswarran Harikrishnan
+## REG NO: 212224110063
 
 ## Aim
 
